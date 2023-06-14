@@ -57,3 +57,23 @@ ___Bold an italics text___
 ![Good Job](https://images.app.goo.gl/UbYSMSKU8UhmvYhF7)
 ![Image text like a description](Image URL)
 ```
+
+## Quote
+
+```markdown
+> This is the quote, and this will be in italic font.
+```
+
+## Code
+
+### Inline code
+
+```markdown
+This is `inline code!`
+```
+
+### Block Code
+
+```language
+code
+```
