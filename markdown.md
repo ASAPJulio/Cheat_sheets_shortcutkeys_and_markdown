@@ -23,3 +23,14 @@ __Bold text__
 ***Bold an italics text***
 ___Bold an italics text___
 ```
+
+## List
+
+```markdown
+- Element 1
+- Element 2
+  - Sub-Element 1
+  - Sub-Element 2
+- ...
+```
+
