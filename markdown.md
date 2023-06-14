@@ -74,6 +74,8 @@ This is `inline code!`
 
 ### Block Code
 
-```language
-code
+```markdown
+```javascript(precise language)
+Your Code Here
+(Close when you finish by ```)
 ```
