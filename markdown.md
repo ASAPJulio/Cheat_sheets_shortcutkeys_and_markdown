@@ -54,6 +54,6 @@ ___Bold an italics text___
 ## Images
 
 ```markdown
-![Good Job](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.numerama.com%2Ftech%2F759517-5-astuces-meconnues-sur-twitter-pour-profiter-davantage-du-reseau-social.html&psig=AOvVaw09Z4wYdZoxBsEv2oqnqo7C&ust=1686825058473000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDbnJTHwv8CFQAAAAAdAAAAABAE)
+![Good Job](https://images.app.goo.gl/UbYSMSKU8UhmvYhF7)
 ![Image text like a description](Image URL)
 ```
