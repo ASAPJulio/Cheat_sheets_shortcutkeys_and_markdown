@@ -44,6 +44,14 @@ ___Bold an italics text___
 3. Element 3
 ```
 
+### Task List
+
+```markdown
+[ ] Task 1
+[x] Task 2
+[ ] Task 3
+```
+
 ## Links
 
 ```markdown
@@ -78,4 +86,13 @@ This is `inline code!`
 ```javascript(precise language)
 Your Code Here
 (Close when you finish by ```)
+```
+
+## Table
+
+```markdown
+|   Head 1  |   Head 2  |
+| --------- | --------- |
+|   Cell 1  |   Cell 2  |
+|   Cell 3  |   Cell 4  |
 ```
