@@ -26,6 +26,8 @@ ___Bold an italics text___
 
 ## List
 
+### Unordered list
+
 ```markdown
 - Element 1
 - Element 2
@@ -34,3 +36,17 @@ ___Bold an italics text___
 - ...
 ```
 
+### Ordered list
+
+```markdown
+1. Element 1
+2. Element 2
+3. Element 3
+```
+
+## Links
+
+```markdown
+[My GitHub account](https://github.com/ASAPJulio)
+[Text example which describe URL](URL links)
+```
