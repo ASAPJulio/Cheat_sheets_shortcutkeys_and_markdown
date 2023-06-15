@@ -96,3 +96,8 @@ Your Code Here
 |   Cell 1  |   Cell 2  |
 |   Cell 3  |   Cell 4  |
 ```
+
+```javascript
+const saif = 3;
+console.log(saif);
+```
