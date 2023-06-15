@@ -96,3 +96,9 @@ Your Code Here
 |   Cell 1  |   Cell 2  |
 |   Cell 3  |   Cell 4  |
 ```
+
+## Commentary
+
+```markdown
+<!-- Your comment here -->
+```
