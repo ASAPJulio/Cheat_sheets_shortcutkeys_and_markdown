@@ -98,3 +98,7 @@ Your Code Here
 |   Cell 1  |   Cell 2  |
 |   Cell 3  |   Cell 4  |
 ```
+
+```html
+<img src="https://images.app.goo.gl/2Ymub29R5NGbYzWx7">
+```
