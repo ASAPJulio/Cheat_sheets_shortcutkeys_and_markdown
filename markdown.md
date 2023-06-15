@@ -3,12 +3,12 @@
 ## Titles
 
 ```markdown
-# Titre de niveau 1
-## Titre de niveau 2
-### Titre de niveau 3
-#### Titre de niveau 4
-##### Titre de niveau 5
-###### Titre de niveau 6
+# Title 1
+## Title 2
+### Title 3
+#### Title 4
+##### Title 5
+###### Title 6
 ```
 
 ## Text with properties
