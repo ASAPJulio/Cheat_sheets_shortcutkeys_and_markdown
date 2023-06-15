@@ -59,7 +59,7 @@ ___Bold an italics text___
 [Text example which describe URL](URL links)
 ```
 
-![my git account](https://images.app.goo.gl/UbYSMSKU8UhmvYhF7)
+![Julien](/image/brent-rambo-meme.jpg)
 
 ## Images
 
@@ -97,8 +97,4 @@ Your Code Here
 | --------- | --------- |
 |   Cell 1  |   Cell 2  |
 |   Cell 3  |   Cell 4  |
-```
-
-```html
-<img src="https://images.app.goo.gl/2Ymub29R5NGbYzWx7">
 ```
