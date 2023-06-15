@@ -59,6 +59,8 @@ ___Bold an italics text___
 [Text example which describe URL](URL links)
 ```
 
+[my git account](https://github.com/ASAPJulio)
+
 ## Images
 
 ```markdown
@@ -91,20 +93,8 @@ Your Code Here
 ## Table
 
 ```markdown
-Voici un tableau
-fsdfsdkfdskfm
-fdsdskfmlksdfmkdslmfkldsmkldsmklmdsfkmds fmdslkfmskdmfkds fdsmklfmdskl 
 |   Head 1  |   Head 2  |
 | --------- | --------- |
 |   Cell 1  |   Cell 2  |
 |   Cell 3  |   Cell 4  |
-```
-
-```javascript
-const saif = 3;
-console.log(saif);
-```
-
-```markdown
-<!-- test -->
 ```
