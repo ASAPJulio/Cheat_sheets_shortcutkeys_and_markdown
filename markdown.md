@@ -59,7 +59,7 @@ ___Bold an italics text___
 [Text example which describe URL](URL links)
 ```
 
-[my git account](https://github.com/ASAPJulio)
+![my git account](https://images.app.goo.gl/UbYSMSKU8UhmvYhF7)
 
 ## Images
 
