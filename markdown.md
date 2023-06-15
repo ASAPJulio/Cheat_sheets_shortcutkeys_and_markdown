@@ -59,12 +59,10 @@ ___Bold an italics text___
 [Text example which describe URL](URL links)
 ```
 
-![Julien](/image/brent-rambo-meme.jpg)
-
 ## Images
 
 ```markdown
-![Good Job](https://images.app.goo.gl/UbYSMSKU8UhmvYhF7)
+![Good Job](/image/brent-rambo-meme.jpg)
 ![Image text like a description](Image URL)
 ```
 
