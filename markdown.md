@@ -91,6 +91,7 @@ Your Code Here
 ## Table
 
 ```markdown
+Voici un tableau
 |   Head 1  |   Head 2  |
 | --------- | --------- |
 |   Cell 1  |   Cell 2  |
@@ -101,4 +102,7 @@ Your Code Here
 const saif = 3;
 console.log(saif);
 ```
-<!-- Commentaire test -->
+
+```markdown
+<!-- test -->
+```
